@@ -1,0 +1,15 @@
+{
+  "name": "step00_helloworld",
+  "version": "1.0.0",
+  "description": "[For the latest docs](https://www.typescriptlang.org/docs/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
